@@ -210,7 +210,7 @@
   <project path="packages/apps/Launcher2" name="superatmel/android_packages_apps_Launcher2" revision="gingerbread" remote="github" />
   <project path="packages/apps/Parts" name="superatmel/android_packages_apps_Parts" remote="github" />
   <project path="packages/apps/Phone" name="superatmel/android_packages_apps_Phone" revision="gingerbread" remote="github" />
-  <project path="packages/apps/Settings" name="superatmel/platform_packages_apps_Settings" remote="github" />
+  <project path="packages/apps/Settings" name="superatmel/android_packages_apps_Settings" remote="github" />
   <project path="packages/apps/SpareParts2" name="superatmel/android_packages_apps_SpareParts2" remote="github" />
   <project path="packages/apps/SoundRecorder" name="superatmel/android_packages_apps_SoundRecorder" remote="github" />
   <project path="packages/apps/Term" name="superatmel/android_packages_apps_Term" remote="github" />
