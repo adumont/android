@@ -220,7 +220,7 @@
   <project path="system/core" name="superatmel/android_system_core" remote="github" />
   <project path="system/extras" name="superatmel/android_system_extras" remote="github" />
   <project path="vendor/superatmel" name="superatmel/android_vendor_superatmel" remote="github" />
-  <project path="vendor/htc" name="blerfont/propietarios_htc" remote="github" />
+  <project path="vendor/htc" name="blerfont/propietarios_htc" remote="github" revision="master" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="superatmel/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" />
   <project path="vendor/tmobile/themes" name="nelo360/android_themes" revision="gingerbread" remote="github" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="superatmel/themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="github" />
