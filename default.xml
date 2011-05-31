@@ -202,6 +202,7 @@
   <project path="device/samsung/crespo" name="superatmel/android_device_samsung_crespo" remote="github" />
   <project path="device/samsung/galaxysmtd" name="superatmel/android_device_samsung_galaxysmtd" remote="github" />
   <project path="device/motorola/zeppelin" name="adumont/android_device_motorola_zeppelin" remote="github" />
+  <project path="device/motorola/morrison" name="adumont/android_device_motorola_morrison" remote="github" /
   <project path="frameworks/base" name="superatmel/android_frameworks_base" remote="github" />
   <project path="packages/apps/ADWLauncher" name="superatmel/android_packages_apps_ADWLauncher" remote="github" />
   <project path="packages/apps/Browser" name="superatmel/android_packages_apps_Browser" remote="github" />
