@@ -175,7 +175,6 @@
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" remote="github" />
   <project path="packages/apps/FM" name="CyanogenMod/android_packages_apps_FM" remote="github" />
   <project path="packages/inputmethods/LatinIME" name="CyanogenMod/android_packages_inputmethods_LatinIME" remote="github" />
-  <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" remote="github" />
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" remote="github" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" />
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" remote="github" />
@@ -213,6 +212,7 @@
   <project path="packages/apps/Calculator" name="superatmel/android_packages_apps_Calculator" remote="github" />
   <project path="packages/apps/DSPManager" name="superatmel/android_packages_apps_DSPManager" remote="github" />
   <project path="packages/apps/Launcher2" name="superatmel/android_packages_apps_Launcher2" revision="gingerbread" remote="github" />
+  <project path="packages/apps/Mms" name="superatmel/android_packages_apps_Mms" remote="github" />
   <project path="packages/apps/Parts" name="superatmel/android_packages_apps_Parts" remote="github" />
   <project path="packages/apps/Phone" name="superatmel/android_packages_apps_Phone" revision="gingerbread" remote="github" />
   <project path="packages/apps/Settings" name="superatmel/android_packages_apps_Settings" remote="github" />
