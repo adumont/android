@@ -126,6 +126,7 @@
   <project path="bionic" name="CyanogenMod/android_bionic" remote="github" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" remote="github" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="github" />
+  <project path="device/lge/star-common" name="CyanogenMod/android_device_lge_star-common" remote="github" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" remote="github" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" remote="github" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="github" />
